@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey there! 👋 I'm Pragalbh
 
-<!--
-**PragalbhCodes/PragalbhCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 *Aspiring CSE Engineer | Startup Enthusiast | Tech Explorer*  
+💡 Passionate about coding, problem-solving, and building cool stuff.  
+📚 Currently preparing for *JEE* and learning full-stack development.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 About Me  
+- 🎯 Goal: Build my dream startup — OmniFy 🚀  
+- 🛠 Skills: Java, Python, HTML, CSS, Git, and learning more!  
+- 📍 From: India 🇮🇳  
+- ⚡ Fun fact: I can debug my life faster than my code… sometimes. 😏  
+
+---
+
+### 📊 GitHub Stats  
+![Pragalbh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PragalbhCodes&show_icons=true&theme=tokyonight)
+
+---
+
+### 🌐 Connect with me  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pragalbh.codes@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)  
+
+---
+
+💬 "The best way to predict the future is to create it."
+
+
